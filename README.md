@@ -43,7 +43,10 @@
 
 
 
-
+## Features to be added
+ 1. Signout
+ 2. Slide out nav bar
+ 3. Filter the news api with different channels
 
 
 
