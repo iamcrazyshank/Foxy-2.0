@@ -14,6 +14,9 @@
 
 ## Screenshots and Functions
 
+### Icon and splash
+
+![splashlogin](https://user-images.githubusercontent.com/32428855/50582718-74d67c00-0e8a-11e9-8c90-496e65ce3386.gif)
 
 ### Login Page / Register Page
 
